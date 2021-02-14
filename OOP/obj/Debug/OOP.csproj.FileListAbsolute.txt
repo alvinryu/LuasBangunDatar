@@ -1,0 +1,6 @@
+E:\Metro Data\OOP\OOP\bin\Debug\OOP.exe.config
+E:\Metro Data\OOP\OOP\bin\Debug\OOP.exe
+E:\Metro Data\OOP\OOP\bin\Debug\OOP.pdb
+E:\Metro Data\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+E:\Metro Data\OOP\OOP\obj\Debug\OOP.exe
+E:\Metro Data\OOP\OOP\obj\Debug\OOP.pdb
